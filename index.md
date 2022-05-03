@@ -13,7 +13,6 @@
     <td>When the patient clicks on 'Get Started' button</td>
     <td>It should redirect patient to the onboarding flow.</td>
     <td>N/A</td>
-    <td>
   </tr>
 </table>
 
