@@ -17,7 +17,7 @@
             <td class="s2" dir="ltr">When the patient clicks on &#39;Get Started&#39; button</td>
             <td class="s2" dir="ltr">It should redirect patient to the onboarding flow.</td>
             <td class="s2" dir="ltr"></td>
-            <td class="s2" dir="ltr">[ ]</td>
+            <td class="s2" dir="ltr"><input type="checkbox" id="vehicle1" name="vehicle1" value="Bike"></td>
         </tr>
         <tr style="height: 49px">
             <td class="s1" dir="ltr">2</td>
@@ -26,7 +26,7 @@
                 mobile number and login to the app.
             </td>
             <td class="s2" dir="ltr"></td>
-            <td class="s2" dir="ltr"></td>
+            <td class="s2" dir="ltr"><input type="checkbox" id="vehicle1" name="vehicle1" value="Bike"></td>
         </tr>
         <tr style="height: 49px">
             <td class="s1" dir="ltr">3</td>
@@ -36,7 +36,7 @@
                 &#39;Last Name&#39; &amp; &#39;Email Address&#39;.
             </td>
             <td class="s2" dir="ltr">Data should show up in the dashboard once the user registers.</td>
-            <td class="s2" dir="ltr"></td>
+            <td class="s2" dir="ltr"><input type="checkbox" id="vehicle1" name="vehicle1" value="Bike"></td>
         </tr>
         <tr style="height: 20px">
             <td class="s1" dir="ltr">4</td>
