@@ -1,6 +1,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link type="text/css" rel="stylesheet" href="resources/sheet.css">
 <div class="ritz grid-container" dir="ltr">
+    <input type="submit" value="Update the data">
     <table class="waffle" cellspacing="0" cellpadding="0">
         <tbody>
         <tr style="height: 49px">
